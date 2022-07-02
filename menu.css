@@ -1,0 +1,40 @@
+ul li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    width: 90%;
+    margin: 0 auto;
+}
+.top_nav_container{
+
+}
+.top_left_nav{
+    width: 31%;
+    float: left;
+    margin-top: 16px;
+}
+.top_left_nav p{
+    margin-bottom: -11px;
+    font-size: 18px;
+}
+.top_log_nav{
+    width: 34%;
+    float: left;
+}
+.top_log_nav img{
+    width: 80%;
+}
+.top_right_nav{
+    width: 25%;
+    float: right;
+}
+.top_right_nav ul{
+    float: right;
+}
+.top_right_nav ul li{
+    float: left;
+    margin-left: 5px;
+}
